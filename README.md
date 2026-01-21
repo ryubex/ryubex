@@ -2,7 +2,7 @@
 
 <h3 align="center">Computer Engineering graduate exploring paths in software, automation, and systems engineering</h3>
 
-<p>Computer Engineering graduate interested in software, automation, and systemsengineering. I enjoy building solutions that connect hardware and software,
+<p>Computer Engineering graduate interested in software, automation, and systems engineering. I enjoy building solutions that connect hardware and software,
 and I’m currently learning front-end development through The Odin Project.Background in C++, Java, and embedded systems.</p>
 
 ###
