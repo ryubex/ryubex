@@ -8,7 +8,7 @@ and I’m currently learning front-end development through The Odin Project.Back
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ryubex&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <p><img src="https://github-readme-stats.vercel.app/api?username=ryubex&show_icons=true&theme=dracula" /></p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ryubex&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
